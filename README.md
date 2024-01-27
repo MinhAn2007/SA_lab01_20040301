@@ -10,4 +10,3 @@ Yêu Cầu
 
 Đọc mô tả hệ thống.
 
-Tái thiết kế hệ thống dựa trên thông tin trong các tệp PDF đính kèm.
