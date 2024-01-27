@@ -1,4 +1,4 @@
-# Lab 01 - Kết Thúc và Thiết Kế Phần Mềm
+# Lab 01 - Kiến trúc và Thiết Kế Phần Mềm
 
 ## Mô Tả Hệ Thống
 
